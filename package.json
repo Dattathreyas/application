@@ -1,0 +1,18 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "Form application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Dattathreya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "mongoose": "^5.0.10"
+  }
+}
